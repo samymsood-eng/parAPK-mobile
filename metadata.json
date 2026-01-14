@@ -1,0 +1,8 @@
+{
+  "name": "مركز الجمهورية الذكي",
+  "description": "النظام المتكامل للربط الذكي بين الجوال والكمبيوتر عبر الواي فاي، بإدارة مركز الجمهورية.",
+  "logo": "https://img.icons8.com/fluency/144/wifi.png",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

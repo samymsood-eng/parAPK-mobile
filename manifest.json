@@ -1,0 +1,24 @@
+
+{
+  "short_name": "مركز الجمهورية",
+  "name": "مركز الجمهورية الذكي - نظام الربط المركزي",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/144/wifi.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/wifi.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "orientation": "portrait",
+  "description": "نظام متكامل لربط أجهزة الموبايل ببرامج الكمبيوتر عبر الواي فاي، بإدارة مركز الجمهورية."
+}
